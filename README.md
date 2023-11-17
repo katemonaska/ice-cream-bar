@@ -1,4 +1,4 @@
-# Sweetstop Ice Cream Bar
+<h1 align='center'>$\color{purple}{Sweetstop\ Ice\ Cream\ Bar}$</h1> 
 
 ✨🍦 Welcome to Sweetstop, your go-to destination for the most delightful ice cream experience! 🍦✨
 
