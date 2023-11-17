@@ -1,61 +1,52 @@
-# ice-cream-bar
-Sweetstop Ice Cream Bar
+# Sweetstop Ice Cream Bar
 
-Welcome to Sweetstop, your go-to destination for the most delightful ice cream experience! 🍦✨
+✨🍦 Welcome to Sweetstop, your go-to destination for the most delightful ice cream experience! 🍦✨
 
-About Sweetstop
+```
+This website and app are developed and designed for a hypothetical ice cream bar 'Sweetstop'. 
 
-Discover the story behind Sweetstop, where childhood friends turned entrepreneurs are on a mission to bring the best ice cream to your town. Our small business has a big heart, rooted in friendship, shared love for ice cream, and a commitment to giving back to our community.
+The pages welcome you with enticing visuals and a promise of a sweet adventure.
 
-About Us
+The project is created for educational purposes.
+```
 
-Our Menu
+## About the app
 
-Indulge in a variety of flavors crafted with top-quality seasonal ingredients. Explore our menu to find your favorite treats that will satisfy your sweet cravings.
+Make orders online, ice cream manu, discover the story behind Sweetstop, where childhood friends turned entrepreneurs are on a mission to bring the best ice cream to your town. 
 
-Menu
+## Get started
+To get started, clone this repository and open the index.html file in your browser. 
+Explore the various pages, from the mouthwatering Menu to the heartwarming About Us section. 
 
-Contact Us
+<h3 align='center'>Don't forget to reach out to us through the Contact page - $\color{purple}{we'd\ love\ to\ hear\ from\ you!}$</h3>
 
-Have a question or just want to say hello? Contact us using the form below. We value your feedback!
+### Technologies Used
 
-Contact Us
+<ul> 
+  <li type='circle'>HTML5</li>
+  <li type='circle'>CSS3</li>
+  <li type='circle'>JavaScript (with GSAP for animations)</li>
+  <li type='circle'>Bootstrap 5.3.0</li>
+</ul>
 
-Home
+### Installation
+<ol>
+  <li>Clone the repository.</li>
+  <li>Copy code
+  git clone https://github.com/your-username/sweetstop-ice-cream.git</li>
+  <li>Open the index.html file in your preferred web browser.</li>
+  <li>Explore the Home, Menu, About Us, and Contact Us pages.</li>
+</ol>
 
-Experience the best ice cream in town right from the comfort of your home. Order online and treat yourself to our delicious creations. Our homepage welcomes you with enticing visuals and a promise of a sweet adventure.
+_Enjoy the Sweetstop experience!_
 
-Home
+## License
+This project is created for educational and training purposes only.
 
-Why Sweetstop?
-Premium quality ice cream
-Unique and mouthwatering flavors
-Friendly and dedicated team
-Convenient online ordering
-Getting Started
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://katherineoelsner.com/](https://kate-fursova-portfolio.glitch.me))
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/kate-fursova/))
 
-To get started, clone this repository and open the index.html file in your browser. Explore the various pages, from the mouthwatering Menu to the heartwarming About Us section. Don't forget to reach out to us through the Contact page; we'd love to hear from you!
+<h3 align='center'>$\color{purple}{Thank\ you\ for\ choosing\ Sweetstop\ Ice\ Cream\ Bar!}$ 🍨✨</h3>
 
-Technologies Used
 
-HTML5
-CSS3
-JavaScript (with GSAP for animations)
-Bootstrap 5.3.0
-Font Awesome 4.7.0
-How to Run
-
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/sweetstop-ice-cream.git
-Open the index.html file in your preferred web browser.
-Explore the Home, Menu, About Us, and Contact Us pages.
-Enjoy the Sweetstop experience!
-Connect With Us
-
-Follow us on social media for the latest updates and exclusive promotions:
-
-Facebook
-Instagram
-Thank you for choosing Sweetstop Ice Cream Bar! 🍨✨
